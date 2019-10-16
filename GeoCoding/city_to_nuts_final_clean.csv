@@ -1,0 +1,80 @@
+,Canonical Name,Clean Region Name,Country Code,Country Name,Name,Region Name,Status,Target Type,city_reverse,country_code_reverse,country_reverse,county_reverse,lat,lng,postcode_reverse,region_reverse,state_reverse,NUTS3
+0,"Sofia,Sofia City Province",,,,Sofia,Sofia City Province,,,Sofia,bg,Bulgaria,Sofia City,42.69770820000001,23.3218675,1000,,,BG411
+2,"Maarssenbroek,Utrecht",,,,Maarssenbroek,Utrecht,,,Stichtse Vecht,nl,Netherlands,,52.1319071,5.0171019999999995,3607CH,,Utrecht,NL310
+4,"Corfu,Corfu",,,,Corfu,Corfu,,,Corfu,el,Greece,Δήμος Κέρκυρας,39.6242621,19.9216777,49100,,"Peloponnese, West Greece and Ionian Sea",EL622
+5,"Alcala de Henares,Madrid",,,,Alcala de Henares,Madrid,,,Alcalá de Henares,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.481979100000004,-3.3635421,28801,,Community of Madrid,ES300
+6,"Aranjuez,Madrid",,,,Aranjuez,Madrid,,,Aranjuez,es,Spain,Las Vegas,40.030501799999996,-3.6040527,28300,,Community of Madrid,ES300
+7,"Getafe,Madrid",,,,Getafe,Madrid,,,Getafe,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.3082504,-3.7323934000000003,28901,,Community of Madrid,ES300
+9,"Pireas,Attica",,,,Pireas,Attica,,,Piraeus,el,Greece,Municipality of Piraeus,37.9429857,23.6469832,185 10,,Attica,BE241
+10,"Arganda del Rey,Madrid",,,,Arganda del Rey,Madrid,,,Arganda del Rey,es,Spain,Cuenca del Henares,40.3064074,-3.4479915,28500,,Community of Madrid,ES300
+12,"Villanueva de la Canada,Madrid",,,,Villanueva de la Canada,Madrid,,,Villanueva de la Cañada,es,Spain,Cuenca del Guadarrama,40.4481075,-3.9975566,28691,,Community of Madrid,ES300
+13,"Ruti,Zurich",,,,Ruti,Zurich,,,Rüti (ZH),ch,Switzerland,Bezirk Hinwil,47.256699499999996,8.854421,8630,,Zurich,CH040
+14,"Acharnes,Attica",,,,Acharnes,Attica,,,Acharnes,el,Greece,Municipality of Acharnes,38.0852204,23.738064,16371,,Attica,
+15,"Alcobendas,Madrid",,,,Alcobendas,Madrid,,,Alcobendas,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.53725120000001,-3.637224499999999,28108,,Community of Madrid,ES300
+16,"Totana,Murcia",,,,Totana,Murcia,,,Totana,es,Spain,Bajo Guadalentín,37.778001,-1.5015009,30850,,Murcia,ES620
+17,"Mostoles,Madrid",,,,Mostoles,Madrid,,,Móstoles,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.323212899999994,-3.8676291,2838,,Community of Madrid,
+20,"Pila,Aosta Valley",,,,Pila,Aosta Valley,,,Aosta,it,Italy,,45.7318255,7.319186599999999,11100,,Aosta Valley,ITC20
+21,"Torrejon de Ardoz,Madrid",,,,Torrejon de Ardoz,Madrid,,,Torrejón de Ardoz,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.4567552,-3.4754967000000003,28850,,Community of Madrid,ES300
+22,"Pinto,Madrid",,,,Pinto,Madrid,,,Pinto,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.2375052,-3.6967718,28320,,Community of Madrid,ES300
+23,"Chania,Crete",,,,Chania,Crete,,,Chania,el,Greece,Chania Municipality,35.513829799999996,24.0180367,73100,,Crete,EL434
+24,"Coslada,Madrid",,,,Coslada,Madrid,,,Coslada,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.4260459,-3.5651646,28821,,Community of Madrid,ES300
+25,"Beam,Friesland",,,,Beam,Friesland,,,Leeuwarden,nl,Netherlands,,53.1641642,5.7817542,8912CD,,Friesland,NL124
+26,"Parla,Madrid",,,,Parla,Madrid,,,Parla,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.237306200000006,-3.7739868999999997,28980,,Community of Madrid,ES300
+27,"Algete,Madrid",,,,Algete,Madrid,,,Algete,es,Spain,Cuenca del Medio Jarama,40.596461700000006,-3.5016452000000005,28110,,Community of Madrid,ES300
+29,"Mazarron,Murcia",,,,Mazarron,Murcia,,,Mazarrón,es,Spain,Bajo Guadalentín,37.595830799999995,-1.3147688,30870,,Murcia,ES620
+32,"Valdemoro,Madrid",,,,Valdemoro,Madrid,,,Valdemoro,es,Spain,Comarca Sur,40.1912403,-3.6740182,28343,,Community of Madrid,ES300
+33,"Tres Cantos,Madrid",,,,Tres Cantos,Madrid,,,Tres Cantos,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.600727,-3.7079745,28760,,Community of Madrid,ES300
+35,"San Fernando de Henares,Madrid",,,,San Fernando de Henares,Madrid,,,San Fernando de Henares,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.42905289999999,-3.5104537000000002,28830,,Community of Madrid,ES300
+36,"Rivas-Vaciamadrid,Madrid",,,,Rivas-Vaciamadrid,Madrid,,,Rivas-Vaciamadrid,es,Spain,Cuenca del Henares,40.3519065,-3.5357334000000002,28521,,Community of Madrid,ES300
+37,"Pozuelo de Alarcon,Madrid",,,,Pozuelo de Alarcon,Madrid,,,Pozuelo de Alarcón,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.4440627,-3.8058517,28334,,Community of Madrid,
+38,"Aguilas,Murcia",,,,Aguilas,Murcia,,,Águilas,es,Spain,Alto Guadalentín,37.411936499999996,-1.5826055,30880,,Murcia,ES620
+43,"Soliera,Province of Modena",,,,Soliera,Province of Modena,,,Soliera,it,Italy,Unione delle Terre d'Argine,44.739641299999995,10.9231459,41019,,Emilia-Romagna,ITH54
+45,"Santomera,Murcia",,,,Santomera,Murcia,,,Santomera,es,Spain,Área Metropolitana de Murcia,38.0601529,-1.0470905000000001,30140,,Murcia,ES620
+46,"Fuenlabrada,Madrid",,,,Fuenlabrada,Madrid,,,Fuenlabrada,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.29020560000001,-3.8035476999999998,28941,,Community of Madrid,ES300
+47,"Jumilla DO,Murcia",,,,Jumilla DO,Murcia,,,Jumilla,es,Spain,Altiplano,38.4763532,-1.3221865,30520,,Murcia,ES620
+48,"Alcantarilla,Murcia",,,,Alcantarilla,Murcia,,,Alcantarilla,es,Spain,Área Metropolitana de Murcia,37.9695167,-1.2193421999999998,30820,,Murcia,ES620
+49,"Villanueva del Pardillo,Madrid",,,,Villanueva del Pardillo,Madrid,,,Villanueva del Pardillo,es,Spain,Cuenca del Guadarrama,40.495315700000006,-3.9776388999999996,28229,,Community of Madrid,ES300
+50,"Molina de Segura,Murcia",,,,Molina de Segura,Murcia,,,Molina de Segura,es,Spain,Vega Media del Segura,38.05168099999999,-1.2073261,30500,,Murcia,ES620
+52,"Colmenar Viejo,Madrid",,,,Colmenar Viejo,Madrid,,,Colmenar Viejo,es,Spain,Cuenca Alta del Manzanares,40.66264810000001,-3.7710457,28770,,Community of Madrid,ES300
+53,"Villaviciosa de Odon,Madrid",,,,Villaviciosa de Odon,Madrid,,,Villaviciosa de Odón,es,Spain,Área metropolitana de Madrid y Corredor del Henares,40.36268070000001,-3.9139109,28670,,Community of Madrid,ES300
+54,"Navalcarnero,Madrid",,,,Navalcarnero,Madrid,,,Navalcarnero,es,Spain,Comarca Sur,40.285568100000006,-4.016639,28600,,Community of Madrid,ES425
+56,"Humanes de Madrid,Madrid",,,,Humanes de Madrid,Madrid,,,Humanes de Madrid,es,Spain,Comarca Sur,40.2596169,-3.8209584999999997,28970,,Community of Madrid,ES300
+59,"Bullas,Murcia",,,,Bullas,Murcia,,,Bullas,es,Spain,Noroeste,38.043344899999994,-1.6736397,30180,,Murcia,ES620
+60,"Pozo Estrecho,Murcia",,,,Pozo Estrecho,Murcia,,,Cartagena,es,Spain,Campo de Cartagena,37.7103017,-0.9928226,30594,,Murcia,ES620
+61,"Teufen,Appenzell Outer Rhodes",,,,Teufen,Appenzell Outer Rhodes,,,Teufen (AR),ch,Switzerland,Mittelland,47.390741999999996,9.3892463,9053,,Appenzell Ausserrhoden,CH053
+62,"Pazardzhik,Pazardzik",,,,Pazardzhik,Pazardzik,,,Pazardzhik,bg,Bulgaria,Pazardzik,42.1927654,24.3335662,4400,,,BG423
+63,"Montebello Vicentino,Province of Vicenza",,,,Montebello Vicentino,Province of Vicenza,,,Montebello Vicentino,it,Italy,VI,45.4594916,11.385172500000001,36054,,Veneto,ITH32
+64,"Nea Erythraia,Attica",,,,Nea Erythraia,Attica,,,Nea Erythrea,el,Greece,Municipality of Kifisia,38.0926493,23.8200477,14671,,Attica,EL301
+66,"Peristeri,Attica",,,,Peristeri,Attica,,,Peristeri,el,Greece,Municipality of Peristeri,38.0176649,23.6859275,121 35,,Attica,AT130
+67,"'s-Hertogenbosch,North Brabant",,,,'s-Hertogenbosch,North Brabant,,,'s-Hertogenbosch,nl,The Netherlands,,51.6978162,5.3036748,5212VE,,North Brabant,NL413
+68,"Las Torres de Cotillas,Murcia",,,,Las Torres de Cotillas,Murcia,,,Las Torres de Cotillas,es,Spain,Vega Media del Segura,38.0274986,-1.2433848,30560,,Murcia,ES620
+69,"Chios,Chios",,,,Chios,Chios,,,Chios,el,Greece,Δήμος Χίου,38.36818239999999,26.1310056,82131,,Aegean,
+73,"Cieza,Murcia",,,,Cieza,Murcia,,,Cieza,es,Spain,Vega Alta del Segura,38.242091200000004,-1.4217274,30530,,Murcia,ES620
+74,"Pergine Valsugana,Trentino-Alto Adige/South Tyrol",,,,Pergine Valsugana,Trentino-Alto Adige/South Tyrol,,,Pergine Valsugana,it,Italy,Comunità Alta Valsugana e Bersntol,46.06174,11.2369603,38057,,Trentino-Alto Adige/Südtirol,ITH20
+75,"Calasparra,Murcia",,,,Calasparra,Murcia,,,Calasparra,es,Spain,Noroeste,38.2291511,-1.701586,30420,,Murcia,ES620
+76,"Ceuti,Murcia",,,,Ceuti,Murcia,,,Ceutí,es,Spain,Vega Media del Segura,38.0800864,-1.272254,30562,,Murcia,ES620
+77,"Austevoll,Hordaland",,,,Austevoll,Hordaland,,,Austevoll,no,Norway,Hordaland,60.1058793,5.1689627,5384,,,NO051
+78,"Kamnik,Municipality of Kamnik",,,,Kamnik,Municipality of Kamnik,,,Kamnik,si,Slovenia,Upravna Enota Kamnik,46.222196399999994,14.607296799999999,1241,,,SI041
+79,"Rovereto,Trentino-Alto Adige/South Tyrol",,,,Rovereto,Trentino-Alto Adige/South Tyrol,,,Rovereto,it,Italy,Comunità della Vallagarina,45.89096,11.0401399,38068,,Trentino-Alto Adige/Südtirol,ITH20
+80,"Velilla de San Antonio,Madrid",,,,Velilla de San Antonio,Madrid,,,Velilla de San Antonio,es,Spain,Cuenca del Henares,40.36995570000001,-3.4864498,28891,,Community of Madrid,ES300
+81,"Kvinnherad,Hordaland",,,,Kvinnherad,Hordaland,,,Dimmelsvik,no,Norway,Hordaland,59.9361331,5.9955944,5464,,,NO051
+82,"Naturns,Trentino-Alto Adige/South Tyrol",,,,Naturns,Trentino-Alto Adige/South Tyrol,,,Naturns - Naturno,it,Italy,Burggrafenamt - Burgraviato,46.6343132,11.011173699999999,39025,,Trentino-Alto Adige/Südtirol,ITH10
+84,"Vipiteno,Trentino-Alto Adige/South Tyrol",,,,Vipiteno,Trentino-Alto Adige/South Tyrol,,,Sterzing - Vipiteno,it,Italy,Wipptal - Alta Vall'Isarco,46.892672499999996,11.4336186,39049,,Trentino-Alto Adige/Südtirol,ITH10
+88,"Saint Gallen,St. Gallen",,,,Saint Gallen,St. Gallen,,,St. Gallen,ch,Switzerland,Wahlkreis St. Gallen,47.424481799999995,9.376717300000001,9000,,Sankt Gallen,CH055
+91,"Odense,Region Syddanmark",,,,Odense,Region Syddanmark,,,Odense,dk,Denmark,Odense Kommune,55.40375599999999,10.40237,5000,,Region of Southern Denmark,DK031
+93,"Archena,Murcia",,,,Archena,Murcia,,,Archena,es,Spain,Valle de Ricote,38.11677350000001,-1.3011431,30600,,Murcia,ES620
+96,"Killarney,Kerry",,,,Killarney,Kerry,,,,ie,Ireland,County Kerry,52.05993530000001,-9.5044265,V93 AYP9,Killarney Municipal District,,IE053
+97,"Lana,Trentino-Alto Adige/South Tyrol",,,,Lana,Trentino-Alto Adige/South Tyrol,,,Lana,it,Italy,Burggrafenamt - Burgraviato,46.611590899999996,11.1629537,39011,,Trentino-Alto Adige/Südtirol,ITH10
+98,"San Martin de la Vega,Madrid",,,,San Martin de la Vega,Madrid,,,San Martín de la Vega,es,Spain,Las Vegas,40.2103049,-3.5787383999999998,28330,,Community of Madrid,ES300
+100,"Chalons-sur-Marne,Champagne-Ardenne",,,,Chalons-sur-Marne,Champagne-Ardenne,,,Châlons-en-Champagne,fr,France,Châlons-en-Champagne,48.956682,4.363073,51000,,Grand Est,FRF23
+102,"Alhama de Murcia,Murcia",,,,Alhama de Murcia,Murcia,,,Alhama de Murcia,es,Spain,Bajo Guadalentín,37.821887800000006,-1.3855161,30840,,Murcia,ES620
+106,"Nafplio,Argolis",,,,Nafplio,Argolis,,,Nafplio,el,Greece,Δήμος Ναυπλιέων,37.56731729999999,22.801553100000003,21100,,"Peloponnese, West Greece and Ionian Sea",EL651
+109,"Aalburg,Gelderland",,,,Aalburg,Gelderland,,,Altena,nl,Netherlands,,51.75129399999999,5.0570848,4261TH,,North Brabant,NL412
+110,"Drogheda,Louth",,,,Drogheda,Louth,,,,ie,Ireland,County Louth,53.71785600000001,-6.3560985,A92 EVH6,The Borough District of Drogheda,,IE062
+111,"Tinglev,Region Syddanmark",,,,Tinglev,Region Syddanmark,,,Tinglev,dk,Denmark,Aabenraa Municipality,54.93447,9.250136,6360,,Region of Southern Denmark,DK032
+116,"Leganes,Madrid",,,,Leganes,Madrid,,,,es,Spain,Madrid,40.3319506,-3.7686545,28911,Comunidad de Madrid,Community of Madrid,ES300
+117,"Las Rozas,Madrid",,,,Las Rozas,Madrid,,,,es,Spain,Madrid,40.4935329,-3.8757916,28231,Comunidad de Madrid,Community of Madrid,ES300
+118,"Lorca,Murcia",,,,Lorca,Murcia,,,,es,Spain,Murcia,37.6735925,-1.6968357,30800,Región de Murcia,Murcia,ES620
+120,"Mejorada del Campo,Madrid",,,,Mejorada del Campo,Madrid,,,,es,Spain,Madrid,40.396654,-3.4877129,28840,Comunidad de Madrid,Community of Madrid,ES300
+121,"Playas del Chorrillo,Andalusia",,,,Playas del Chorrillo,Andalusia,,,,es,Spain,Cádiz,36.6254949,-6.3362333,11520,Andalucía,Andalusia,ES612
+122,"Cehegin,Murcia",,,,Cehegin,Murcia,,,,es,Spain,Murcia,38.0922055,-1.7963756999999998,30430,Región de Murcia,Murcia,ES620
